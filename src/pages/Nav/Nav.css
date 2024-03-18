@@ -1,0 +1,51 @@
+Nav {
+  /* border:2px solid red; */
+  display: flex;
+  justify-content: space-around;
+  height: 13vh;
+  width: 100%;
+  background-color: rgb(245, 136, 1);
+  padding-top: 1%;
+  position:relative;
+  z-index: 1000;
+  
+}
+.logo {
+  text-decoration: none;
+  font-size: 2rem;
+  color: rgb(82, 83, 80);
+ 
+ 
+  
+
+}
+.menu {
+  text-decoration: none;
+  font-size: 22px;
+  margin: 8px 14px 0px 5px;
+  color: white;
+  display: flex;
+  
+}
+.na {
+  margin-top: 8px;
+  display: flex;
+}
+.notif {
+  /* border: 2px solid black; */
+  background-color: red;
+  justify-content: center;
+  display: flex;
+  border-radius: 20px;
+  color: white;
+  font-size: 1rem;
+  font-weight: bolder;
+  margin-left: -29px;
+  text-decoration: none;
+  align-items: center;
+
+}
+.notif:hover{
+    cursor: pointer;
+    
+}

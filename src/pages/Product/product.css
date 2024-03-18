@@ -1,0 +1,14 @@
+.productlist{
+    background: rgb(248, 248, 248);
+    width: 80%;
+    margin: 8%;
+    padding: 3%;
+    margin-top: -6%;
+    /* border: 2px solid yellow; */
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 2rem;
+    border-radius: 40px;
+    
+}

@@ -1,0 +1,16 @@
+.boutton{
+    min-width: 5%;
+    min-height: 5vh;
+}
+.compteur{
+    display: flex;
+    
+}
+.output{
+    /* border: 2px solid red; */
+    width: 10%;
+padding-left:4%;
+    font-size: 100%;
+    font-weight: bold;
+   
+}
